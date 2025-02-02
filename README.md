@@ -6,8 +6,6 @@ I've been learning web development since 10 years now. Started with HTML, then t
 *   🌍  I'm based in Chicago, IL
 *   🖥️  See my portfolio at [Kamakshya.xyz](http://kamakshya.xyz)
 *   ✉️  You can contact me at [knanda3001@gmail.com](mailto:knanda3001@gmail.com)
-*   🧠  I'm learning AI Engineering
-*   🤝  I'm open to collaborating on Freelance Projects.
-*   ⚡  I love to make music and listen to Jazz.
+*   🧠  Currently building [PDF2QR.com](https://pdf2qr.com)
 
                     
